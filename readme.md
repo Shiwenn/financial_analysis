@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Shiwenn/sound_system/master/images/1.JPG" width="650px"> <br>
 
-|model| |sound-system| |excel| |specific business |
+|build-status| |go-report| |go-doc| |apache2| |chat| |codecov|
 
 <strong>Sound Museum</strong> is a combo of music content and data-driven platform, its products include curated articles and user-generated content, customized data analytics dashboard. Both music lovers and creators are its targets. <br>
 
