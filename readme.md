@@ -12,10 +12,14 @@ Also, key measurements were listed to project its business performance with a sp
 
 Lastly, according to risk rate = failure * occurrence (1-mitigation), I listed the risk mitigation tactics, higher possibility of product success and corresponding mitigation cost revealed.  <br>
 
+## Introduction
 <img src="https://raw.githubusercontent.com/Shiwenn/sound_system/master/images/2.JPG" width="100%"> <br><br>
 
+## Technology and Tools
 <img src="https://raw.githubusercontent.com/Shiwenn/sound_system/master/images/3.JPG" width="100%"> <br><br>
 
+
+## Risk Assessment
 <img src="https://raw.githubusercontent.com/Shiwenn/sound_system/master/images/4.JPG" width="100%"> <br>
 
 
